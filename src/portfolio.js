@@ -13,7 +13,8 @@ const socialMediaLinks = {
   github: "https://github.com/Jacksole",
   linkedin: "https://www.linkedin.com/in/le-aundre-jackson-00812327/",
   gmail: "leaundre.jackson87@gmail.com",
-  facebook: "https://www.facebook.com/leaundre.jackson"
+  facebook: "https://www.facebook.com/leaundre.jackson",
+  resume: "https://drive.google.com/open?id=1hSnNlldCDi4ZAw1sLyGBoKBvPuvha0E2"
 };
 
 const skillsSection = {
